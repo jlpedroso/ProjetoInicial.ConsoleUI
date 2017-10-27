@@ -1,0 +1,13 @@
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.ConsoleUI.exe.config
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.ConsoleUI.exe
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.ConsoleUI.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.Data.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.Domain.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.Data.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\ListaDeFilmes.Domain.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\obj\Debug\ListaDeFilmes.ConsoleUI.exe
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\obj\Debug\ListaDeFilmes.ConsoleUI.pdb
