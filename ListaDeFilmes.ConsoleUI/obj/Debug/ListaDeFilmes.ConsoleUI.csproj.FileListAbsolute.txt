@@ -11,3 +11,4 @@ C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\Ent
 C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
 C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\obj\Debug\ListaDeFilmes.ConsoleUI.exe
 C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\obj\Debug\ListaDeFilmes.ConsoleUI.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.ConsoleUI\obj\Debug\ListaDeFilmes.ConsoleUI.csprojResolveAssemblyReference.cache
